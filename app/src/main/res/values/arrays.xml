@@ -1,0 +1,18 @@
+<resources>
+    <!-- Language Preference -->
+    <string-array name="language_entries">
+        <item>Tiếng Việt</item>
+        <item>English</item>
+        <item>日本語 (日本)</item>
+        <item>Français</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="language_values">
+        <item>tieng_viet</item>
+        <item>tieng_anh</item>
+        <item>tieng_nhat</item>
+        <item>tieng_phap</item>
+        <item>tieng_nga</item>
+    </string-array>
+</resources>

@@ -1,0 +1,178 @@
+<resources>
+
+    ///
+
+    <string name="menu_featured">Featured Image</string>
+    <string name="menu_contribute">Contribute</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_feedback">Feed Back</string>
+    <string name="menu_information">Infomation</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="next"><b>Next</b></string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_donate">Donate</string>
+    <string name="title_activity_contribute">Contribute</string>
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_feedback">Donate</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="about_overview"><b>Overview</b></string>
+    <string name="about_open_source"><b>Open source software used in MPicture</b></string>
+    <string name="about_permission"><b>Permissions</b></string>
+    <string name="about_contact"><b>Contact us</b></string>
+    <string name="permission1"><b>Access Network State</b></string>
+    <string name="permission2"><b>Internet</b></string>
+    <string name="permission3"><b>Set Wallpaper</b></string>
+    <string name="permission4"><b>Write External Storage</b></string>
+
+    <string name="overview">
+        MPicture is a content platform, and personalization. People use MPicture to see others picture in the world, to make smartphones more personal using wallpapers.
+    </string>
+
+
+    <string name="markushi"><a href="https://github.com/markushi/android-ui">Markushi UI</a></string>
+    <string name="firebase"><a href="https://firebase.google.com/">Firebase</a></string>
+    <string name="picasso"><a href="https://square.github.io/picasso/">Picasso</a></string>
+    <string name="glide"><a href="https://bumptech.github.io/glide/">Glide</a></string>
+    <string name="permission_1">
+        Since MPicture are loading content from our servers you need to have an active network connection. This permission will allow us to see if you are connected or not.
+    </string>
+    <string name="permission_2">
+        This permission allows MPicture internet access to load content from our servers.
+    </string>
+    <string name="permission_3">
+        Allows you to set a wallpaper from within the app.
+    </string>
+    <string name="permission_4">
+        Allows you to save the content you download from MPicture onto your phone.
+    </string>
+    <string name="feedback_title">
+        Please send us your feedback
+    </string>
+    <string name="feedback_content">
+        Do you have challenges with the app or suggestions for improvements? Press the button below to be taken to your preferred email client and let us know.
+    </string>
+    <string name="feedback_note">
+        Note: Non personal information that can help us to debug will be include in the message.
+    </string>
+
+    <string name="author">Meeooooow</string>
+    <string name="fanpage"><a href="https://fb.me/MEE0000W">Fanpage</a></string>
+    <string name="messenger"><a href="https://m.me/MEE0000W">Messenger</a></string>
+    <string name="download">Downloaded</string>
+    <string name="title_activity_user_view">userView</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+    ///
+
+    <string name="app_name">AllInOneApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    //////
+
+
+    <string name="battery_broadcast_receiver">Battery Broadcast Receiver</string>
+    <string name="textBatteryInfo">Battery Info</string>
+    <string name="textState">State:</string>
+    <string name="textStatus">Status: </string>
+    <string name="textPlug">Plug:</string>
+    <string name="textLevel">Level:</string>
+    <string name="textScale">Scale:</string>
+    <string name="textVoltage">Voltage:</string>
+    <string name="textTemperature">Temperature:</string>
+    <string name="textTechnology">Technology:</string>
+    <string name="textHealth">Health:</string>
+    <string name="Unknown">Unknown</string>
+    <string name="Empty"></string>
+    <string name="batteryStatusCharging">Charging</string>
+    <string name="batteryStatusChargingAC">Charging(AC)</string>
+    <string name="batteryStatusChargingUSB">Charging(USB)</string>
+    <string name="batteryStatusDischarging">Discharging</string>
+    <string name="batteryStatusFull">Full</string>
+    <string name="batteryStatusNotCharging">Not charging</string>
+    <string name="batteryPlugAC">AC plugged</string>
+    <string name="batteryPlugUSB">USB plugged</string>
+    <string name="batteryPlugNone">Not plugged</string>
+    <string name="batteryHealthDead">Dead</string>
+    <string name="batteryHealthGood">Good</string>
+    <string name="batteryHealthOverVoltage">Over voltage</string>
+    <string name="batteryHealthOverheat">Overheat</string>
+    <string name="batteryHealthUnspecifiedFailure">Unspecified failure</string>
+    <string name="batteryLevelSymbol">%</string>
+    <string name="batteryVoltSymbol"> mV</string>
+    <string name="batteryCelsiusSymbol">\u00B0 C</string>
+    <string name="batteryFahrenheitSymbol">\u00B0 F</string>
+    <string name="infoViewSummaryButton">Summary</string>
+    <string name="infoViewOptionsButton">Options</string>
+    <string name="infoViewPreferencesButton">Preferences</string>
+    <string name="infoViewHistoryButton">History</string>
+    <string name="settingsManager">Battery Widget Settings</string>
+    <string name="historyViewManager">Battery History Details</string>
+    <string name="aboutView">About this app</string>
+    <string name="availableData">Charge History</string>
+    <string name="notAvailableDataYet">No history data available</string>
+    <string name="packageVersion">Version 1.4.1</string>
+    <string name="authorInfo">        \nDeveloper: Erkan Molla</string>
+    <string name="aboutThisApp">        \nThis app is placed on your home screen so you can quickly check your battery level.
+        \nIt is an open source project and licensed with Apache License 2.0.
+        \nFeel free to contribute to the development of the project on GitHub.</string>
+    <string name="donation">        \nIf you wish to support the development please consider making a donation with paypal. Thank You!</string>
+    <string name="publicThanks">        \nI would like to send my public thanks to \'bilentkal@gmail.com\' for the battery icons.
+        \nContact him if you are developer.</string>
+    <string name="githubButtonName">Go to GitHub</string>
+    <string name="paypalButtonName">Go to PayPal</string>
+    <string name="title_activity_widget">WidgetActivity</string>
+    /////
+    <string name="autochange_title">Auto Change Background</string>
+    <string name="autochange_summ">Auto change background after:</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="bg_header">Auto Change Background</string>
+    <string name="bg_title">Auto Change Background</string>
+    <string name="bg2_title">Time (Minutes)</string>
+    <string name="app_title_setting">App</string>
+    <string name="language_title">Language (Comingsoon)</string>
+    <string name="your_name_title">Your Name</string>
+    <string name="your_mail_title">Email</string>
+
+</resources>

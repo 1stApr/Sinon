@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369352640903",
+    "firebase_url": "https://crocus-sativus-wallpaper.firebaseio.com",
+    "project_id": "crocus-sativus-wallpaper",
+    "storage_bucket": "crocus-sativus-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369352640903:android:a03be831a766531ef56b22",
+        "android_client_info": {
+          "package_name": "com.crocussativus.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369352640903-upf2urlpdqhgmjmjftrotgdh2us68b2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crocussativus.wallpaper",
+            "certificate_hash": "ccbd397bc428befbbbefa19331932ee0faa2c82f"
+          }
+        },
+        {
+          "client_id": "369352640903-l2dkkgl9d5tjvpbfvcd0fe4htdavl1j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr5N9O7WZX5L-5eWo-Yhi1oSCfC48EC3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369352640903-l2dkkgl9d5tjvpbfvcd0fe4htdavl1j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

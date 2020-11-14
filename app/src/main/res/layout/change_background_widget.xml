@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_nobg">
+
+    <ImageButton
+        android:id="@+id/btn_change"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/bg_nobg"
+        android:src="@drawable/ic_image2"
+        />
+<!--    <ImageView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:id="@+id/img_bg"-->
+<!--        android:visibility="visible">-->
+
+<!--    </ImageView>-->
+
+</RelativeLayout>

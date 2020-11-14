@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/decrease_volume_widget"
+    android:initialLayout="@layout/decrease_volume_widget"
+    android:minWidth="40dp"
+    android:minHeight="40dp"
+    android:previewImage="@drawable/ic_low_volume_56"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="30000"
+    android:widgetCategory="home_screen"></appwidget-provider>
